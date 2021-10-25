@@ -1,4 +1,4 @@
-- 👋 Hi, Balaji Addanki
+- 👋 Hi, I'm Balaji Addanki
 - 👀 I’m interested in AI and Datascience
 - 🌱 I’m currently learning Machine Learning
 - 
